@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539112361014.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8FDCAAF3",
+    "lastKnownWriteTime" : 3205756031634389538,
+    "last_content_update" : 1539112361014,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FF6A651E",
+        "caption" : "oitavo",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=oitavo&cache_key=FF6A651E",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "object" : "oitavo",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "10"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

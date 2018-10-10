@@ -1,0 +1,17 @@
+#########EXERCÍCIO 9#########
+#install.packages("readxl")
+library(readxl)
+nono<-read_excel("dados/exercicio9.xls")
+
+table(nono)
+
+
+
+jpeg("exercicio9.jpg")
+hist(nono$Salarios, breaks = seq(min(nono$Salarios), max(nono$Salarios), 2),
+     col = rainbow ((max(nono$Salarios)-min(nono$Salarios))/2),
+     axes = F
+)
+axis(side = 1, at = seq(min(nono$Salarios),max(nono$Salarios),2))
+axis(side = 2)
+dev.off()
